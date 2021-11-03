@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border:chartreuse;
+    padding:3px;
+    position: absolute;
+}
